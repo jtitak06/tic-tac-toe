@@ -140,6 +140,10 @@ h1 {
     background-color: #fff;
 }
 
+.reset-btn:active {
+    background-color: lightgray;
+}
+
 .winner span {
     color: chartreuse;
 }
